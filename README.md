@@ -56,28 +56,21 @@ Key SQL Analysis Areas:
 
 
 Key Conclusions:
-* Overall Purchase Performance: The Control Campaign generated more total purchases than the Test Campaign (15,161 vs. 14,869). This indicates that despite differences         in engagement and traffic volume, the Control campaign was slightly more effective at driving final conversions.
-* The Test Campaign spent more overall budget while generating fewer purchases. This suggests that the Test campaign was less cost-efficient, requiring higher spend to         achieve comparable results.
-* The Test Campaign achieved:
-      * More website clicks.
-      * More searches.
- However, this higher engagement did not translate into higher purchase volume. This indicates a potential issue with traffic quality rather than traffic quantity.
-* The Control Campaign shows stronger performance in the lower funnel, with more add-to-cart events and purchases relative to exposure.
-* The Test Campaign appears to lose users in later funnel stages, suggesting:
-     * Mismatch between targeting and purchase intent.
-     * Or friction in the conversion journey.
-* While the Control Campaign reached a larger audience overall, it also managed to convert more effectively. This balance between reach and conversion efficiency reinforces the stability and reliability of the Control campaign.
-
+* The Control Campaign performed slightly better than the Test Campaign in terms of purchases. It generated 15,161 purchases compared to 14,869 purchases for the Test Campaign. This suggests that even though the campaigns showed different engagement patterns and traffic volumes, the Control Campaign was more effective at converting users into actual buyers.
+* The Test Campaign spent more overall budget but did not generate a higher number of purchases. This indicates lower cost efficiency, as more spend was required to achieve   similar results. In other words, the Test Campaign was more expensive without delivering proportional value.
+* While the Test Campaign drove more website clicks and searches, this higher level of engagement did not translate into increased purchases. This suggests that the issue     may be related to traffic quality rather than traffic quantity: the campaign attracted users, but not users with strong purchase intent.
+* The Control Campaign shows stronger performance in the lower funnel. It generates more add-to-cart events and purchases relative to exposure, indicating a smoother and      more effective conversion journey.
+* In contrast, the Test Campaign appears to lose users in later funnel stages. This may point to a mismatch between targeting and purchase intent, or possible friction        within the conversion process.
+* Overall, the Control Campaign not only reached a larger audience but also converted more efficiently. This balance between reach and conversion efficiency highlights the    Control Campaign’s stability and reliability.
+  
 3. Average Reach, Clicks & Impressions
 <img width="868" height="106" alt="image" src="https://github.com/user-attachments/assets/db2d4423-1400-4782-9382-9d911551e469" />
 
 Key Conclusions:
-* The Control Campaign achieved significantly higher average reach and impressions per day.
-  In contrast, the Test Campaign reached a smaller audience, but generated more website clicks on average.
- This indicates that while the Control campaign prioritized broad exposure, the Test campaign was more effective at driving user interaction among those exposed.
-* Despite lower impressions, the Test Campaign generated more clicks per day.
-  This suggests a higher engagement rate and implies that the Test campaign’s messaging or targeting was more compelling at the top of the funnel.
-* The Control Campaign’s higher reach and impressions did not automatically translate into higher engagement.
+* The Control Campaign reached a much larger audience and generated higher average daily reach and impressions. It focused mainly on broad exposure and making sure as many    people as possible saw the ads.
+* The Test Campaign, on the other hand, reached fewer people but generated more website clicks on average. This suggests that while fewer users were exposed to the            campaign, those who did see it were more likely to interact with it.
+* Even with lower impressions, the Test Campaign managed to drive more clicks per day. This points to stronger engagement at the top of the funnel and suggests that the       campaign’s messaging or targeting was more effective in encouraging users to take action.
+* Overall, higher reach and impressions in the Control Campaign did not automatically lead to higher engagement. This highlights a clear tradeoff between exposure and  interaction: the Control Campaign prioritized scale, while the Test Campaign was more effective at driving user engagement among a smaller audience.
 
 4. Cost efficiency metrics:
    * CPA (Cost Per Acquisition)
@@ -85,31 +78,31 @@ Key Conclusions:
 
       Key Conclusions:
 
-      * The Control Campaign achieved a lower CPA (4.41) compared to the Test Campaign (5.02). This means that each purchase in the Control Campaign required less                   advertising spend. From a cost-efficiency standpoint, the Control Campaign outperformed the Test Campaign.
-     *  Despite higher total spend, the Test Campaign generated fewer purchases. This resulted in a higher CPA, indicating diminishing returns on additional budget                   investment. 
-     *  A higher CPA directly impacts profitability, especially at scale. Even small differences in CPA become significant when campaigns are run with large budgets. Over            time, the Test Campaign would be more expensive to maintain for the same level of business results.
-     *  The Control Campaign demonstrates more stable and predictable performance, making it the safer choice for budget allocation.
-     *  The Test Campaign would require further optimization (targeting, messaging, or conversion flow) before being scaled.
+      * The Control Campaign performed better in terms of cost efficiency, with a lower CPA of 4.41 compared to 5.02 for the Test Campaign. This means that each purchase in         the Control Campaign required less advertising spend, making it more efficient from a cost perspective.
+     *  Although the Test Campaign had higher overall spend, it generated fewer purchases. As a result, the cost per acquisition increased, indicating that additional               budget did not translate into proportional business results. 
+     *  The higher CPA of the Test Campaign suggests it would be more expensive to maintain without delivering better outcomes.
+     *  The Control Campaign also shows more stable and predictable performance, making it a safer option for budget allocation.
+     *  Before scaling, the Test Campaign would require further optimization, such as improvements in targeting, messaging, or the conversion flow.
 
   * CPC (Cost Per Click)
     
     <img width="752" height="139" alt="image" src="https://github.com/user-attachments/assets/f54ed665-f677-4076-a0c5-c4d728b8cde9" />
 
       Key Conclusions:
-      *  The Test Campaign achieved a slightly lower CPC (0.426) compared to the Control Campaign (0.433). This indicates that the Test Campaign was marginally more                  efficient at acquiring clicks.
-      *  Despite higher total spend, the Test Campaign generated more website clicks overall. This suggests that the Test Campaign’s targeting or creative strategy was               effective at encouraging initial user interaction.
-      *  Although the Test Campaign was more efficient in generating clicks, this advantage did not translate into stronger conversion or lower CPA.
-      *  The Test Campaign shows promise in top-of-funnel optimization. However, without improvements in downstream conversion, the lower CPC alone is not sufficient to              justify higher spend.
+      *  The Test Campaign achieved a slightly lower cost per click (0.426) compared to the Control Campaign (0.433). This indicates that the Test Campaign was marginally            more efficient at driving users to click on the ads.
+      *  The higher number of clicks suggests that the Test Campaign’s targeting or creative approach was effective at encouraging initial user interaction with the website.
+      *  However, this advantage at the click level did not translate into stronger conversion performance or a lower cost per acquisition. While the Test Campaign was               successful in generating clicks, it was less effective at turning those clicks into purchases.
+      *  Overall, the Test Campaign shows promise in top of funnel optimization. However, without improvements in downstream conversion stages, a lower CPC alone is not              sufficient to justify higher advertising spend.
 
     * Conversion rate
 
       <img width="865" height="132" alt="image" src="https://github.com/user-attachments/assets/2e4c989b-bdf4-4f81-a438-9aa004f55d36" />
 
       Key Conclusions:
-      * The Control Campaign outperformed the Test Campaign in terms of conversion effectiveness. Despite lower total spend, the Control Campaign generated more purchases,          indicating a stronger ability to turn traffic into customers. This suggests that users exposed to the Control Campaign were more likely to complete a purchase.
-      * The Test Campaign invested more budget but did not achieve a proportional improvement in conversions.This highlights that increased spend alone does not improve             conversion outcomes without strong funnel performance.
-      * The Control Campaign demonstrates higher-quality traffic, with fewer users dropping off before completing a purchase. The Test Campaign appears to attract users who         engage initially but convert less effectively in later funnel stages.
-      * The Control Campaign provides more reliable and cost-effective growth.
+      * The Control Campaign was more effective at converting users into buyers. Even with lower total spend, it generated more purchases than the Test Campaign, indicating         a stronger ability to turn website traffic into actual conversions. Users exposed to the Control Campaign were more likely to complete a purchase.
+      * The Test Campaign, despite higher investment, did not achieve a proportional increase in conversions. This suggests that increasing spend alone does not lead to             better conversion outcomes when the rest of the funnel is not performing effectively.
+      * Overall, the Control Campaign appears to attract higher-quality traffic, with fewer users dropping off before completing a purchase. In contrast, the Test Campaign          tends to attract users who show initial interest but convert less effectively in later funnel stages.
+      * As a result, the Control Campaign provides more reliable and cost-effective growth.
 
     * CTR, View Content Rate, Add To Cart Rate, Purchase Rate
 
